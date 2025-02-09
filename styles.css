@@ -32,7 +32,14 @@ div p {
     margin: auto;
 }
 
-img {
+div img {
     display: block;
     margin: auto;
+    border-radius: 10px;
+
+}
+
+footer {
+    font-size: 10px;
+    color: darkgray;
 }
